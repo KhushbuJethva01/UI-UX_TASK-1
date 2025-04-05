@@ -4,7 +4,7 @@
 
 **NAME**: KHUSHBU JETHVA
 
-**INTERN ID**: CT04WY65
+**INTERN ID**: CT04WY64
 
 **DOMAIN**: UI/UX
 
@@ -20,8 +20,8 @@ WHAT I DO: FIRST I TOOK SWIGGY WEBSITE AND ANALYSIS IT FOR WHAT I NEED TO IMPROV
 
 ## BEFORE
 
-![Image](https://github.com/user-attachments/assets/95b64e6a-c324-45de-a3d7-e3a235e674f9)
+![Image](https://github.com/user-attachments/assets/c4c4a787-c0c9-4dc9-809b-8461c7d0beff)
 
 ## AFTER (OUTPUT)
 
-![Image](https://github.com/user-attachments/assets/3ea492b3-cbe4-48b4-ae37-b5f30eb8673c)
+![Image](https://github.com/user-attachments/assets/2455d5d1-f999-4ab3-957d-6ce956560347)
